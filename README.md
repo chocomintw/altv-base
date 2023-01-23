@@ -2,7 +2,7 @@
 A simple boilerpilate for alt:v using pnpm and typescript
 
 
-# How to set-up?
+# Installation guide
 Open any terminal and use these commands
 
 Install dependencies
