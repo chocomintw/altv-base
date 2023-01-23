@@ -1,0 +1,24 @@
+{
+	"name": "altv-base",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"altv:install": "altv-pkg release",
+		"altv:config": "altv-config ./config/config.json"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@altv/types-client": "^2.4.4",
+		"@altv/types-natives": "^1.4.8",
+		"@altv/types-server": "^2.5.7",
+		"@altv/types-shared": "^1.3.6",
+		"@altv/types-webview": "^1.0.5",
+		"@altv/types-worker": "^1.0.7",
+		"@stuyk/altv-config": "^4.0.1",
+		"altv-pkg": "^2.0.8",
+		"typescript": "^4.9.4"
+	},
+	"type": "module"
+}
