@@ -1,0 +1,6 @@
+{
+        "evenBetterToml.schema.associations": {
+          "server.toml": "https://raw.githubusercontent.com/xxshady/altv-config-schemas/main/server-config.schema.json?v=awdassdw"
+        },
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
